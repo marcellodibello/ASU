@@ -1,14 +1,10 @@
 # Job Market Materials 
 
-## UCSD -  Data Ethics - Assistant Professor Position
+## ASU -  Assistant Professor Position
 
 ## Marcello Di Bello
 
-Hello -- I had a great time talking with faculty members and graduate students 
-in the department of philosophy and at HDSI. In response to your questions 
-about my research and teaching,  I thought it would be a good idea 
-to consolidate the relevant information in one single page. 
-
+ASU - Assistant Professor Position - AOS: open with a focus on emerging technologies and human futures from within any of the subfields of philosophy, including theoretical, social, and normative approaches 
 
 # Research projects
 
