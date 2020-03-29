@@ -1,8 +1,8 @@
 ---
-pagetitle: "Job Market Materials"
-title: "Job Market Materials"
-subtitle: "UCSD -  Data Ethics - Assistant Professor Position"
-author: "Marcello Di Bello"
+pagetitle: "Job Market Materials - Marcello Di Bello"
+title: "Job Market Materials - Marcello Di Bello"
+subtitle: "ASU -  Assistant Professor Position - AOS: open with a focus on emerging technologies and human futures from within any of the subfields of philosophy, including theoretical, social, and normative approaches"
+author: ""
 output:
   html_document:
     toc: true
@@ -157,13 +157,6 @@ pre { /* Code block - determines code spacing between lines */
 
 </style>
 -->
-
-
-
-Hello -- I had a great time talking with faculty members and graduate students 
-in the department of philosophy and at HDSI. In response to your questions 
-about my research and teaching,  I thought it would be a good idea 
-to consolidate the relevant information in one single page. 
 
 
 # Research projects
