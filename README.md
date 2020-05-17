@@ -1,10 +1,10 @@
 # Job Market Materials 
 
-## ASU -  Assistant Professor Position
+## Assistant Professor Position
 
 ## Marcello Di Bello
 
-ASU - Assistant Professor Position - AOS: open with a focus on emerging technologies and human futures from within any of the subfields of philosophy, including theoretical, social, and normative approaches 
+Assistant Professor Position - AOS: open with a focus on emerging technologies and human futures from within any of the subfields of philosophy, including theoretical, social, and normative approaches 
 
 # Research projects
 
